@@ -26,7 +26,9 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-
+![image](https://github.com/Nospiel-code/fm-news-homepage/assets/130290610/cdc357e1-168b-4f72-a7f7-1fbfe38b484e)
+![image](https://github.com/Nospiel-code/fm-news-homepage/assets/130290610/74b912d2-56fc-4c79-bd3f-9cef0a329987)
+![image](https://github.com/Nospiel-code/fm-news-homepage/assets/130290610/05bb0ba7-9e44-4157-9ba7-f364e2457341)
 
 
 ### Links
